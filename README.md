@@ -33,7 +33,7 @@ sequenceDiagram
     Note over Contract: Checks the proof
     Contract-->>Voter: Grants or rejects voting request
     Voter->>Contract: Submits vote
-    Note over Contract: Verifies that the sender has voting rights, if verified, accepts and stores the encrypted vote
+    Note over Contract: Verifies that the sender has voting rights,<br/>if verified, accepts and stores the encrypted vote
     Contract-->>Voter: Returns transaction receipt
 ```
 
