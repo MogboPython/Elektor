@@ -33,8 +33,7 @@ sequenceDiagram
     Note over Contract: Checks the proof
     Contract-->>Voter: Grants or rejects voting request
     Voter->>Contract: Submits vote
-    Note over Contract: Verifies that the sender has voting rights
-    Note over Contract: If verified, accepts and stores the encrypted vote
+    Note over Contract: Verifies that the sender has voting rights, if verified, accepts and stores the encrypted vote
     Contract-->>Voter: Returns transaction receipt
 ```
 
@@ -42,10 +41,14 @@ sequenceDiagram
 
 
 ## Deployment Addresses
+### 1. Factory Contract 
+- Polygon - [address](url)
 
 ## API
 
 ### Technologies Used
+- [PrivadoID](https://docs.privado.id/)
+- [Honojs](https://hono.dev/)
 
 
 ### Contributors
