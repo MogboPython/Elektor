@@ -15,7 +15,7 @@ The project repository contains the following directories:
 .
 ├── README.md
 ├── Elektor-contracts (Solidity smart contracts)
-├── Elektor-backend (Node.js server)
+├── Elektor-api (Node.js server)
 └── Elektor-frontend (Vite React frontend)
 ```
 
@@ -44,6 +44,7 @@ sequenceDiagram
 
 ### URL
 The website is live @ [here](https://elektor.netlify.app) ✨
+Backend is live @ [here](https://elektor-api.onrender.com) 🚀
 
 ### Technologies Used
 - [PrivadoID](https://docs.privado.id/)
