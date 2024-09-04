@@ -37,9 +37,6 @@ sequenceDiagram
     Contract-->>Voter: Returns transaction receipt
 ```
 
-## Utilities
-
-
 ## Deployment Addresses
 ### 1. Factory Contract 
 - Polygon - [address](url)
@@ -62,5 +59,16 @@ sequenceDiagram
 
 
 ## Challenges Faced
+
+## Contributing
+
+We believe in the power of collaboration and welcome contributions from all members of the community irrespective of your domain knowledge and level of expertise,
+your input is valuable.
+Here are a few ways you can get involved:
+
+- **Spread the Word**: Help us reach more enthusiasts by sharing the project with your network. The more creators and collectors we bring together, the stronger our community becomes.
+- **Feature Requests**: If you have ideas for new features or improvements, share them with us! We're excited to hear how we can enhance the marketplace to better serve the community.
+- **Code Contributions**: Developers can contribute by submitting pull requests. Whether it's fixing bugs, optimizing code, or adding new functionalities, your code contributions are invaluable.
+- **Bug Reports and Feedback**: If you encounter any issues or have suggestions for improvement, please open an issue on GitHub.
 
 ****
