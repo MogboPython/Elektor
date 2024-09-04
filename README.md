@@ -25,11 +25,17 @@ sequenceDiagram
     participant Server
     participant Contract
 
-    User->>Server: Submits verification documents
+    Voter->>Server: Submits verification documents
     Note over Server: Verifies identity and assigns verifiable credentials(VC)
     Note over Server: Generates zero knowledge proof of VC
     Server-->>Voter: Sends zk proof of VC
-    Voter->>Contract: submits zk proof to contract
+    Voter->>Contract: submits voting request with VC
+    Note over Contract: Checks the proof
+    Contract-->>Voter: Grants or rejects voting request
+    Voter->>Contract: Submits vote
+    Note over Contract: Verifies that the sender has voting rights
+    Note over Contract: If verified, accepts and stores the encrypted vote
+    Contract: Returns transaction receipt
 ```
 
 ## Utilities
