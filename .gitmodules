@@ -1,3 +1,6 @@
 [submodule "elektor-frontend"]
 	path = elektor-frontend
 	url = https://github.com/prettyirrelevant/elektor-frontend.git
+[submodule "elektor-api"]
+	path = elektor-api
+	url = https://github.com/prettyirrelevant/elektor-api.git
