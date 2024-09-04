@@ -35,7 +35,7 @@ sequenceDiagram
     Voter->>Contract: Submits vote
     Note over Contract: Verifies that the sender has voting rights
     Note over Contract: If verified, accepts and stores the encrypted vote
-    Contract: Returns transaction receipt
+    Contract-->>Voter: Returns transaction receipt
 ```
 
 ## Utilities
