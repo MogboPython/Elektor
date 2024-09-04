@@ -60,6 +60,8 @@ sequenceDiagram
 
 ## Challenges Faced
 
+During the development of this project, we encountered several obstacles related to using Privado ID. The documentation was really poor and having to figure out things by endlessly scouring for examples hindered our progress. We overcame these by finding and piecing together multiple sources and examples. The privado team also provided assistance to us when we reached out to them on their [telegram](https://t.me/PrivadoID_Official) support channel.
+
 ## Contributing
 
 We believe in the power of collaboration and welcome contributions from all members of the community irrespective of your domain knowledge and level of expertise,
