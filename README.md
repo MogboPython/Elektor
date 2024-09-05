@@ -43,8 +43,8 @@ sequenceDiagram
 - Amoy Polygon - [0xc9a1572b04Cc69D6d1231E7FCF0f81dC78b49A89](https://amoy.polygonscan.com/address/0xc9a1572b04Cc69D6d1231E7FCF0f81dC78b49A89)
 
 ### URL
-The website is live @ [here](https://elektor.netlify.app) ✨
-Backend is live @ [here](https://elektor-api.onrender.com) 🚀
+- The website is live @ [here](https://elektor.netlify.app) ✨
+- Backend is live @ [here](https://elektor-api.onrender.com) 🚀
 
 ### Technologies Used
 - [PrivadoID](https://docs.privado.id/)
