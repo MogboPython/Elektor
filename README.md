@@ -14,7 +14,7 @@ The project repository contains the following directories:
 ```sh
 .
 ├── README.md
-├── Elektor-contracts (Solidity smart contracts)
+├── Elektor-contract (Solidity smart contracts)
 ├── Elektor-api (Node.js server)
 └── Elektor-frontend (Vite React frontend)
 ```
@@ -39,8 +39,8 @@ sequenceDiagram
 ```
 
 ## Deployment Addresses
-### 1. Factory Contract 
-- Polygon - [address](url)
+### Factory Contract 
+- Amoy Polygon - [0xc9a1572b04Cc69D6d1231E7FCF0f81dC78b49A89](https://amoy.polygonscan.com/address/0xc9a1572b04Cc69D6d1231E7FCF0f81dC78b49A89)
 
 ### URL
 The website is live @ [here](https://elektor.netlify.app) ✨

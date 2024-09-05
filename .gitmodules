@@ -4,3 +4,6 @@
 [submodule "elektor-api"]
 	path = elektor-api
 	url = https://github.com/prettyirrelevant/elektor-api.git
+[submodule "Elektor-contract"]
+	path = Elektor-contract
+	url = https://github.com/Jaybee020/Elektor-contract.git
