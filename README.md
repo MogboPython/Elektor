@@ -43,6 +43,7 @@ sequenceDiagram
 - Amoy Polygon - [0xc9a1572b04Cc69D6d1231E7FCF0f81dC78b49A89](https://amoy.polygonscan.com/address/0xc9a1572b04Cc69D6d1231E7FCF0f81dC78b49A89)
 
 ### URL
+- Link to personal identity schema to verify the voters' credentials can be found [here](https://tools.privado.id/schemas/048f2d4f-a16f-4019-ad30-5cec6f8eb378)
 - The website is live @ [here](https://elektor.netlify.app) ✨
 - Backend is live @ [here](https://elektor-api.onrender.com) 🚀
 
