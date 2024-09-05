@@ -56,7 +56,7 @@ Backend is live @ [here](https://elektor-api.onrender.com) 🚀
 - Isaac Adewumi ([@prettyirrelevant](https://github.com/prettyirrelevant)): Backend Engineer
 - Olayinka Ganiyu ([@jaybee020](https://github.com/Jaybee020)): Smart Contract Engineer
 - Tobi Faniran ([@fantee-hub](https://github.com/fantee-hub)): Frontend Engineer
-- Mogboluwaga Onayade ([@MogboPython](https://github.com/MogboPython)): Project Manager
+- Mogboluwaga Onayade ([@MogboPython](https://github.com/MogboPython)): Project Manager... Telegram username: Papi_G
 
 ## Challenges Faced
 
